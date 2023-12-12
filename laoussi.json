@@ -1,7 +1,7 @@
 {
   "ads": [
     {
-      "ad_status": "on",
+      "ad_status": "off",
       "ad_type": "admob",
 
 
@@ -23,7 +23,7 @@
     {
       "ad_time": "10000",
       "ad_time_rate": "80",
-      "quran_link":"https://server8.mp3quran.net/mtrod/" ,
+      "quran_link":"https://server6.mp3quran.net/aloosi/" ,
       "facebook":"https://m.facebook.com/QoranFull" ,
       "twitter":"https://mobile.twitter.com/FreeQuranMp3" ,
       "insagram":"https://www.instagram.com/lestenquran"
